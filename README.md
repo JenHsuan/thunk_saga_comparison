@@ -8,3 +8,6 @@ cd thunk_saga
 npm install
 npm start
 ```
+
+## Reference
+[Redux Saga with React: Fast-track Redux Saga intro course](https://www.udemy.com/course/redux-saga/)
